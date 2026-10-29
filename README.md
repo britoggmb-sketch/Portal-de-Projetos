@@ -1,9 +1,11 @@
-# Portal de Projetos
+# IAM Academy
 
-Painel de gestão de carteira de projetos de tecnologia, num único arquivo HTML.
+Plataforma de estudos para certificações de segurança de identidade (SailPoint e Ping Identity), num único arquivo HTML.
 
-**Principais recursos:** farol de saúde por projeto e da carteira (SPI, atrasos e bloqueios), dashboard executivo, tabela de demandas com demandas mãe e filhas e pesos, Gantt com arrastar e soltar e atalhos de teclado, Curva S planejado × realizado, roadmap por fase, histórico com desfazer, comentários por demanda, status report semanal editável, exportação em PDF e Markdown e interface em português e espanhol.
+**Para quem estuda:** trilhas por certificação, módulos com objetivos, glossário com definição ao passar o mouse, estudos de caso, quizzes com explicação, simulados cronometrados, radar de habilidades, relatório de lacunas por domínio e indicador de prontidão para a prova.
 
-**Leitura de documentos:** envie atas, cronogramas, planilhas ou exportações do Jira. No ambiente do Claude, a IA propõe mudanças no plano para revisão. Fora dele, a leitura é simplificada (datas, tópicos e responsáveis).
+**Para quem administra:** gestão de usuários e solicitações de acesso, restrição por domínio de e-mail, revisão e aprovação de conteúdo e perguntas, e ingestão de materiais (PDF, Word, PowerPoint, texto e transcrições) para enriquecer os módulos.
 
-**Dados:** salvos no `localStorage` do navegador. O projeto de exemplo é fictício e pode ser restaurado pelo botão "Restaurar dados iniciais".
+**Demonstração:** na tela de entrada, use os botões *Aluno* ou *Administrador*. Os dados ficam no `localStorage` do navegador.
+
+O conteúdo foi escrito a partir da documentação pública dos fabricantes, com as fontes citadas em cada módulo. As perguntas são autorais e não reproduzem exames oficiais.
